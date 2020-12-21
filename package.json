@@ -1,0 +1,13 @@
+{
+  "name": "cli-music-player",
+  "version": "1.0.0",
+  "description": "A command line music player. No controls, just the bare minimum",
+  "main": "index.js",
+  "author": "garbageoverflow",
+  "license": "MIT",
+  "dependencies": {
+    "audic": "^2.0.0",
+    "colors": "^1.4.0",
+    "mp3-duration": "^1.1.0"
+  }
+}
